@@ -3,6 +3,7 @@
    
 ## Register Number:212224240121
 ## Name:Pugazh sozhan.A
+## Date:10.03.2026
 
 ## AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
